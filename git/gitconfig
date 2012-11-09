@@ -1,6 +1,6 @@
 [user]
-	name = Federico Galassi
-	email = federico.galassi@gmail.com
+	name = Francesco Fullone
+	email = ffullone@gmail.com
 [core]
 	editor = vim
 [color]
@@ -12,8 +12,6 @@
 	co = checkout
 	ci = commit
 	see = log --graph --pretty=oneline --decorate=full --all
-[heroku]
-	account = federico.galassi.gmail.com
 [merge]
 	tool = vimdiff
 [diff]
